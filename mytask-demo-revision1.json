@@ -82,6 +82,5 @@
     },
     "registeredAt": "2026-02-09T14:24:22.219Z",
     "registeredBy": "arn:aws:iam::153600892742:user/Gita",
-    "enableFaultInjection": false,
     "tags": []
 }
